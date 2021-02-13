@@ -12,3 +12,7 @@ Then data was filtered on the birth_date column to retrieve the employees who we
 The starter code was used on the DISTINCT ON statement to reterive the fist occurrence of the employee number for each set of rows.
 
 ![]images/unique_title.PNG
+
+The next analysis was to find out the number of retiring emploees with their recent job title . To find this out, the number of titles from the unique_titles was reterived and then grouped by title , and the count column was sorted in descending order.
+
+![]images/retirement_titles.PGN
