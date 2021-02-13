@@ -18,5 +18,7 @@ The next analysis was to find out the number of retiring emploees with their rec
 ![]images/retirement_titles.PNG
 
 In Deliverable 2, the analysis was to find out which employees are qualified for the mentorship program .
-To perform this query, the emp_no, first_name, last_name and birth_date were reterived form the Employees table and from_date and to_date was retervied from the Department Employees table.  The title coulumn was reterived form the Titles table.
+To perform this query, the emp_no, first_name, last_name and birth_date were reterived form the Employees table and from_date and to_date was retervied from the Department Employees table.  The title coulumn was reterived form the Titles table.  The DISTINCT ON statement to reterive the fist occurrence of the employee number for each set of rows.
+The Employees and Department Employee tables were inner joined on the primary key.  The Titles and Employees tables were inner joined on the primary key as well.
+The information then was filtered on the to_date to find employees whos birthdaye is bewteen Januray 1, 1965 and December 31, 1965.  The new table created is called mentorship eligibility which was ordered by employee number.  
 
