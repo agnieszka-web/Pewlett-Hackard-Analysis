@@ -16,3 +16,7 @@ The starter code was used on the DISTINCT ON statement to reterive the fist occu
 The next analysis was to find out the number of retiring emploees with their recent job title . To find this out, the number of titles from the unique_titles was reterived and then grouped by title , and the count column was sorted in descending order.
 
 ![]images/retirement_titles.PNG
+
+In Deliverable 2, the analysis was to find out which employees are qualified for the mentorship program .
+To perform this query, the emp_no, first_name, last_name and birth_date were reterived form the Employees table and from_date and to_date was retervied from the Department Employees table.  The title coulumn was reterived form the Titles table.
+
