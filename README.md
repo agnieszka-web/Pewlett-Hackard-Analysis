@@ -25,4 +25,4 @@ The information then was filtered on the to_date to find employees whose birthda
 ![](images/mentorship.PNG)
 
 # Summary:
-From the analysis the conclusion is that there is over 90,000 employees retiring in the next short while.  We can also see that there are only 1549 people elegible for menotorship program.  Pewlett_Hackard now knows that the "silver tsunami" is coming. 
+From the analysis the conclusion is that there is over 90,000 employees retiring in the next short while.  We can also see that there are only 1549 people eligible for mentorship  program.  Pewlett_Hackard now knows that the "silver tsunami" is coming. 
