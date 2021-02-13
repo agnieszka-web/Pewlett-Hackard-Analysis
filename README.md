@@ -11,4 +11,4 @@ The two tables were inner joined on their primary key.
 Then data was filtered on the birth_date column to retrieve the employees who were born between 1952 and 1955 and ordered by the employee number, then it was saved into the retirement_titles.csv.
 The starter code was used on the DISTINCT ON statement to reterive the fist occurrence of the employee number for each set of rows.
 
-![]image/unique_title.PNG
+![]images/unique_title.PNG
