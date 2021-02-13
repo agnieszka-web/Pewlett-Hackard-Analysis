@@ -13,6 +13,7 @@ The starter code was used on the DISTINCT ON statement to reterive the fist occu
 
 ![]images/unique_title.PNG
 
+
 The next analysis was to find out the number of retiring emploees with their recent job title . To find this out, the number of titles from the unique_titles was reterived and then grouped by title , and the count column was sorted in descending order.
 
-![]images/retirement_titles.PGN
+![]images/retirement_titles.PNG
