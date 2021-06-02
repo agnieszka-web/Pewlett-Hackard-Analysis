@@ -1,6 +1,6 @@
 ## All the analysis for this project is found in the ../Analysis Projects Folder/Pewlett-Hackard-Analysis Folder/
 
-# Pewlett-Hackard-Analysis
+# Pewlett Hackard Analysis
 
 #Purpose:
 The purpose of this analysis is to discover how many employees will be retiring.  And the second part is to find out which employees are eligible to participate in a mentorship program.
